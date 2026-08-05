@@ -1,3 +1,100 @@
+# Hola, soy Víctor Miranda 👋
+
+## Ingeniero de Datos | Analista de Datos | Business Intelligence
+
+Profesional del área informática con amplia experiencia en integración, transformación, análisis y visualización de datos. He participado en proyectos para los sectores bancario y financiero, desarrollando procesos de datos, reportes regulatorios, soluciones ETL, indicadores de gestión y dashboards orientados a apoyar la toma de decisiones.
+
+Actualmente me enfoco en proyectos de Ingeniería de Datos, análisis de información y soluciones de Business Intelligence para empresas y PYMEs.
+
+## Áreas de experiencia
+
+- Ingeniería, integración y transformación de datos.
+- Desarrollo y mantenimiento de procesos ETL.
+- Análisis, depuración y validación de información.
+- Creación de dashboards e indicadores de gestión.
+- Modelamiento de datos y reportería.
+- Automatización de procesos.
+- Soporte técnico y funcional a usuarios.
+- Documentación y levantamiento de requerimientos.
+
+## Tecnologías y herramientas
+
+### Datos y programación
+
+- SQL Server, Oracle, Informix y Netezza.
+- SQL, T-SQL, HQL y Python.
+- Hadoop, Hive, Spark y Scala.
+- Azure Databricks y Azure Data Explorer.
+
+### Business Intelligence
+
+- Power BI.
+- Power Query.
+- DAX.
+- Modelamiento dimensional.
+- Excel.
+- Diseño de KPI y reportes ejecutivos.
+
+### Integración y gestión
+
+- SSIS y DataStage.
+- Control-M.
+- GitHub y GitLab.
+- Jira y ServiceNow.
+- Metodologías Scrum y Kanban.
+
+## Proyecto destacado
+
+### Dashboard Comercial para PYMEs – Power BI
+
+Solución de Business Intelligence desarrollada para analizar ventas, rentabilidad, clientes, canales, sucursales y regiones.
+
+El proyecto incluye:
+
+- Dashboard interactivo en Power BI.
+- Indicadores comerciales y financieros.
+- Análisis de clientes y concentración de ventas.
+- Análisis geográfico.
+- Archivo PBIX.
+- Documentación técnica.
+- Imágenes y video demostrativo.
+
+[Ver proyecto Dashboard Comercial para PYMEs](https://github.com/vitoco888/dashboard-comercial-pymes-power-bi)
+
+## Experiencia sectorial
+
+He participado principalmente en proyectos relacionados con:
+
+- Banca y servicios financieros.
+- Factoring.
+- Información regulatoria.
+- Inteligencia de negocios.
+- Procesamiento de grandes volúmenes de datos.
+- Automatización y control de procesos.
+
+## Servicios para empresas y PYMEs
+
+Desarrollo soluciones de análisis de datos que consideran:
+
+- Integración de información desde Excel, CSV, bases de datos y sistemas empresariales.
+- Limpieza y transformación de datos.
+- Creación de modelos e indicadores.
+- Desarrollo de dashboards en Power BI.
+- Automatización de reportes.
+- Documentación y apoyo a usuarios.
+
+## Objetivo profesional
+
+Continuar aportando mi experiencia en proyectos de Ingeniería de Datos, análisis y Business Intelligence, ayudando a transformar información en soluciones confiables que faciliten la gestión y la toma de decisiones.
+
+## Contacto
+
+- GitHub: [vitoco888](https://github.com/vitoco888)
+- LinkedIn: linkedin.com/in/victormiranda
+- Correo profesional: vitoco888@gmail.com
+
+==============================================================================================================================================================
+
 # Dashboard Comercial para PYMEs – Power BI
 
 ## Descripción
