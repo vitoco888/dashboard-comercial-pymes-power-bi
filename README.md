@@ -19,7 +19,29 @@ Proporcionar una visión clara del desempeño comercial de la empresa, permitien
 
 ## Vista del dashboard
 
+### 1. Resumen comercial
+
+Vista ejecutiva de ventas netas, ventas brutas, margen real, cumplimiento de metas, ventas por canal y evolución mensual.
+
 ![Resumen comercial](Imagenes/01_Resumen_comercial.png)
+
+### 2. Análisis de clientes
+
+Permite analizar clientes atendidos, venta promedio, cliente principal, concentración Top 10 y relación entre valor y volumen de compra.
+
+![Análisis de clientes](Imagenes/02_Analisis_Clientes.png)
+
+### 3. Análisis geográfico
+
+Presenta las ventas por región y sucursal, permitiendo identificar la región líder y las sucursales con mejor desempeño.
+
+![Análisis geográfico](Imagenes/03_Analisis_Geografico.png)
+
+### 4. Resumen de ventas
+
+Muestra ventas totales, costos, margen bruto, cantidad vendida, categorías y cumplimiento de objetivos comerciales.
+
+![Resumen de ventas](Imagenes/04_Resumen_Ventas.png)
 
 ## Páginas desarrolladas
 
