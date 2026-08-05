@@ -19,7 +19,7 @@ Proporcionar una visión clara del desempeño comercial de la empresa, permitien
 
 ## Vista del dashboard
 
-![Resumen comercial](Imagenes/01_Resumen_Comercial.png)
+![Resumen comercial](Imagenes/01_Resumen_comercial.png)
 
 ## Páginas desarrolladas
 
