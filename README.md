@@ -97,7 +97,7 @@ Permite comparar las ventas por región y sucursal, identificando la región lí
 
 * [Ficha del proyecto](Documentacion/Ficha_Proyecto_Dashboard_Comercial_PYMEs.pdf)
 * [Archivo Power BI](PBIX/Dashboard_Comercial_PYMEs.pbix)
-* [▶ Ver 01_Resumen_comercial.mp4](https://drive.google.com/file/d/1zwDVdLUs--QsgAyNRqjHhQWP36iGian_/view?usp=drive_link)
+* [▶ Ver 01_Resumen_comercial.mp4](https://drive.google.com/file/d/1dPDYvJkPi4LnmR-9wh3ZmD55MOxba-nG/view?usp=drive_link)
 * [▶ Ver 02_Analisis_Clientes.mp4](https://drive.google.com/file/d/17WWe2gXsM41KZAJjPtSlZOxV0CwlfujV/view?usp=drive_link)
 * [▶ Ver 03_Analisis_Geografico.mp4](https://drive.google.com/file/d/1xxFXL50tUliZI76o9kPlbNLgGpeJDXs5/view?usp=drive_link)
 * [▶ Ver 04_Resumen_ventas.mp4](https://drive.google.com/file/d/1dPDYvJkPi4LnmR-9wh3ZmD55MOxba-nG/view?usp=drive_link)
