@@ -21,7 +21,7 @@ Proporcionar una visión clara del desempeño comercial de la empresa, permitien
 
 ### 1. Resumen comercial
 
-Vista ejecutiva de ventas netas, ventas brutas, margen real, cumplimiento de metas, ventas por canal y evolución mensual.
+Vista ejecutiva de ventas netas, ventas brutas, margen real, margen % y cumplimiento meta.
 
 ![Resumen comercial](Imagenes/01_Resumen_comercial.png)
 
